@@ -9,18 +9,18 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://img.sanishtech.com/u/74a9a05af513de33e4ab706d3e239973.jpg"  />
+  <img height="150" src="https://img.sanishtech.com/u/82c10af239ebc011f5f1d7959d96560c.png"  />
 </div>
-
-###
-
-<p align="right">ᶜ⁺ ʰ , ⁱʷᶜ !<br>                                         ˢⁱᵍⁿ ᵃᵗᵃ ⊹ ‧₊</p>
 
 ###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+###
+
+<p align="center">ᶜ⁺ ʰ , ⁱʷᶜ !<br>                                         ˢⁱᵍⁿ ᵃᵗᵃ ⊹ ‧₊</p>
 
 ###
 
