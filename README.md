@@ -8,9 +8,26 @@
 
 ###
 
+
+[ᵃᵗᵃᵇᵒᵒᵏ](https://shunenough.atabook.org)
+
+
+⊹ ‧₊˚
+
+
+
+
 <div align="center">
   <img height="150" src="https://img.sanishtech.com/u/82c10af239ebc011f5f1d7959d96560c.png"  />
 </div>
+
+
+⊹ ‧₊˚
+
+
+[ˢᵗʳᵃʷᵖᵃᵍᵉ](https://zankalogic.straw.page)
+
+
 
 ###
 
