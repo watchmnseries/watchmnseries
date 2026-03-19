@@ -1,34 +1,31 @@
-<p align="left">✧˚ ⊹  ᵥₑₙᵤₛ ₚₗₐₙₑₜ ₒf ₗₒᵥₑ ⭑.ᐟ</p>
+<p align="left">˚⟡˖ ࣪“ ᵥₑₙᵤₛ ₚₗₐₙₑₜ ₒf ₗₒᵥₑ  ”୭</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://image2url.com/r2/default/images/1773907808629-ce72a760-bbe3-44f4-b406-53a866f2c7c3.jpg"  />
+  <img height="150" src="https://image2url.com/r2/default/images/1773912073780-f063599b-d8c1-46fa-be28-8aa0b6ec3624.jpg"  />
 </div>
 
 ###
 
-<div align="left">
+<p align="right">ᶜ⁺ ʰ , ⁱʷᶜ !<br>                                         ˢⁱᵍⁿ ᵃᵗᵃ ⊹ ‧₊</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://count.getloli.com/@:watchmnseries?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
-
-<!--
-**watchmnseries/watchmnseries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
