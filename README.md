@@ -20,9 +20,10 @@
 
 ###
 
+<div align="center">
 
-[ˢⁱᵍⁿᵃᵗᵃ](https://shunenough.atabook.org)
-[ʳᵉⁿᵗʳʸ](https://rentry.org/shunnsilvr)
+[ˢⁱᵍⁿᵃᵗᵃ](https://shunenough.atabook.org).ᐟ
+[ʳᵉⁿᵗʳʸ](https://rentry.org/shunnsilvr).ᐟ[ᵗᵘᵐᵇˡʳ](https://rentry.org/zankalogic)
 
 <p align="center">c₊ₕ , w₂ᵢ !<br>ᵢwc</p>
 
