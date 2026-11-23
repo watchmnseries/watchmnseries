@@ -5,7 +5,9 @@
  
 <div data-importer="text" align="center">
   
-[𝓽𝓾𝓶𝓫𝓵𝓻](https://zankalogic.tumblr.com)  • [𝓪𝓽𝓪𝓫𝓸𝓸𝓴](https://shunenough.atabook.org) • [𝓻𝓮𝓷𝓽𝓻𝔂](https://rentry.org/zankapedia)</p>
+<a href="(https://shunenough.atabook.org)">
+  <img src="https://sanimgcdn.com/u/eeffc13784b0d25547ea07702ca368b4.png" height="120"
+</a>
 
 ###
 <div data-importer="image" align="center">
