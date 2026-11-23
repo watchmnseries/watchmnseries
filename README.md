@@ -1,12 +1,11 @@
 <div data-importer="image" align="center">
   <img data-importer="image" height="50" src="https://sanimgcdn.com/u/c9d88956230600e0b7dbad3ea340fbc9.png"  />
 </div>
-
  
 <div data-importer="text" align="left">
   
-<a href="(https://shunenough.atabook.org)">
-  <img src="https://sanimgcdn.com/u/e8a170c360c8b95cab56891b854a312f.png" height="20"
+<a href="https://shunenough.atabook.org">
+  <img src="https://sanimgcdn.com/u/e8a170c360c8b95cab56891b854a312f.png" height="20">
 </a>
 
 ###
