@@ -3,10 +3,10 @@
 </div>
 
  
-<div data-importer="text" align="center">
+<div data-importer="text" align="left">
   
 <a href="(https://shunenough.atabook.org)">
-  <img src="https://sanimgcdn.com/u/eeffc13784b0d25547ea07702ca368b4.png" height="120"
+  <img src="https://sanimgcdn.com/u/e8a170c360c8b95cab56891b854a312f.png" height="20"
 </a>
 
 ###
