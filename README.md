@@ -20,14 +20,7 @@
   <img data-importer="image" height="530" src="https://lh3.googleusercontent.com/d/1FwfC6RPVvu7Xv_xgwo5XIzyZiJ_CYcR2"  />
 </div>
 
-###
-
-
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://lh3.googleusercontent.com/d/1WtIN-MnfewvPv2qPJgCyh6icah6rhI2e"  />
-</div>
-
+───────────⋆˙⟡────⚞^. .^⚟────⋆˙⟡──────────
 
 ###
 
