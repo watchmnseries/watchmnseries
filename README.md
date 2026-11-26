@@ -13,9 +13,6 @@
 ###
 
 
-
-###
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="530" src="https://lh3.googleusercontent.com/d/1FwfC6RPVvu7Xv_xgwo5XIzyZiJ_CYcR2"  />
 </div>
@@ -34,4 +31,10 @@ $${\color{#FFD104}c+h \ × \ iwc !! \ × \ feel \ free \ to \ cud/sit \ w \ me !
 </div>
 
 ###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://lh3.googleusercontent.com/d/1dpaPSUgqv2VttZLpl0n3O3qgcbVCkiR-"  />
+</div>
+
+
 
