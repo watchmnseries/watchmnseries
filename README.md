@@ -30,7 +30,7 @@ $${\color{#FFD104}c+h \ × \ iwc !! \ × \ feel \ free \ to \ cud/sit \ w \ me !
 
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="450" src="https://lh3.googleusercontent.com/d/1P2WMrV-paijsvW82JnzBi-kakXco1kiA"  />
+  <img data-importer="image" height="300" src="https://lh3.googleusercontent.com/d/1P2WMrV-paijsvW82JnzBi-kakXco1kiA"  />
 </div>
 
 ###
