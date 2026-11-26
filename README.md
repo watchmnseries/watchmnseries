@@ -26,9 +26,7 @@
   <img data-importer="image" height="450" src="https://lh3.googleusercontent.com/d/1dpaPSUgqv2VttZLpl0n3O3qgcbVCkiR-"  />
 </div>
 
-###
-
-$${\color{#edffcc}c+h \ × \ iwc !! \ × \ feel \ free \ to \ cud/sit \ w \ me !! }$$
+$${\color{#FFD104}c+h \ × \ iwc !! \ × \ feel \ free \ to \ cud/sit \ w \ me !! }$$
 
 
 
