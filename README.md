@@ -34,12 +34,7 @@ $${\color{#FFD104} shin \  𓏵   \ asakura }$$
 
 
 
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://lh3.googleusercontent.com/d/1dpaPSUgqv2VttZLpl0n3O3qgcbVCkiR-"  />
-</div>
-
-$${\color{#FFD104}c+h \ × \ iwc !! \ × \ feel \ free \ to \ cud/sit \ w \ me !! }$$
+$${\color{#FFD104}c+h \ × \ iwc \ × \ feel \ free \ to \ cud/sit \ w \ me !! }$$
 
 
 <div data-importer="image" align="center">
