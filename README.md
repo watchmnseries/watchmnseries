@@ -29,8 +29,15 @@ $${\color{#FFD104} shin \  𓏵   \ asakura }$$
 
 <div align="center">
 <a href="https://shunenough.atabook.org" target="_blank">
-  <img src="https://lh3.googleusercontent.com/d/1b0jdj7BUfs08KaxQdCOBVNemNa6kqOix" alt="Description of image" height="150">
+  <img src="https://lh3.googleusercontent.com/d/1b0jdj7BUfs08KaxQdCOBVNemNa6kqOix" alt="Description of image" height="130">
 </a>
+
+
+<div align="center">
+<a href="https://clairvoyantlogic.straw.page" target="_blank">
+  <img src="https://lh3.googleusercontent.com/d/1WOjVxN8WT5nWoy80RSPGUb1naRUY2Uaj" alt="Description of image" height="130">
+</a>
+
 
 
 
