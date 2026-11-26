@@ -28,8 +28,11 @@
 
 
 
-
-wip
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31tsmr2fybuilt2n3k6lago2kwku&cover_image=false&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  </a>
+</p>
 
 
 
