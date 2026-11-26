@@ -16,7 +16,7 @@
   <img data-importer="image" height="530" src="https://lh3.googleusercontent.com/d/1FwfC6RPVvu7Xv_xgwo5XIzyZiJ_CYcR2"  />
 </div>
 
-$${\color{#FFD104} shin \ x \ asakura }$$
+$${\color{#FFD104} shin \  𓏵   \ asakura }$$
 
 
 ###
