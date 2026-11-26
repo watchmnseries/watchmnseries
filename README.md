@@ -20,7 +20,7 @@
   <img data-importer="image" height="530" src="https://lh3.googleusercontent.com/d/1FwfC6RPVvu7Xv_xgwo5XIzyZiJ_CYcR2"  />
 </div>
 
-────────────────⚞^. .^⚟────────────────
+───────────────⚞^. .^⚟───────────────
 
 ###
 
